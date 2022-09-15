@@ -19,6 +19,8 @@
 
 <li>⚡ Fun fact **Introvert AF**</li>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtzuya&show_icons=true&locale=en" alt="jtzuya" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtzuya&show_icons=true&locale=en&layout=compact" alt="jtzuya" /></p>
