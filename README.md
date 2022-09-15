@@ -7,17 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtzuya&label=Profile%20views&color=0e75b6&style=flat" alt="jtzuya" /> </p>
 
-<li> 🔧 I’m currently working on <a href="https://thishowwedoit.vercel.app/" target="_blank">[solid-octo-couscous (Reactjs | Nextjs) ecommerce project]</a></li>
+<li>🔧 I’m currently working on <a href="https://thishowwedoit.vercel.app/" target="_blank">[solid-octo-couscous (Reactjs | Nextjs) ecommerce project]</a></li>
 
-- 🌱 I’m currently learning **Reactjs, Nextjs, and Hydrogen (soon)**
+<li>🌱 I’m currently learning **Reactjs, Nextjs, and Hydrogen (soon)**</li>
 
-- 💬 Ask me about **CSS/SCSS**
+<li>💬 Ask me about **CSS/SCSS**</li>
 
-- 📫 How to reach me **that.seuya@gmail.com**
+<li>📫 How to reach me **that.seuya@gmail.com**</li>
 
-- 📄 Know about my experiences [https://www.upwork.com/freelancers/jtzuya](https://www.upwork.com/freelancers/jtzuya)
+<li>📄 Know about my experiences <a href="https://www.upwork.com/freelancers/jtzuya)" target="_blank">https://www.upwork.com/freelancers/jtzuya</a></li>
 
-- ⚡ Fun fact **Introvert AF**
+<li>⚡ Fun fact **Introvert AF**</li>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtzuya&show_icons=true&locale=en" alt="jtzuya" /></p>
 
