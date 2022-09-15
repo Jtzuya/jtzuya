@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtzuya&label=Profile%20views&color=0e75b6&style=flat" alt="jtzuya" /> </p>
 
-- 🔧 I’m currently working on <a href="thishowwedoit.vercel.app">[solid-octo-couscous (Reactjs | Nextjs) ecommerce project]</a>
+- 🔧 I’m currently working on <a href=(thishowwedoit.vercel.app)>[solid-octo-couscous (Reactjs | Nextjs) ecommerce project]</a>
 
 - 🌱 I’m currently learning **Reactjs, Nextjs, and Hydrogen (soon)**
 
