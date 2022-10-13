@@ -13,7 +13,7 @@
 
 <li>💬 Ask me about **Work**</li>
 
-<li>📫 How to reach me **that.seuya@gmail.com**</li>
+<li>📫 How to reach me **jtzuya@gmail.com**</li>
 
 <li>📄 Know about my experiences <a href="https://www.upwork.com/freelancers/jtzuya)" target="_blank">https://www.upwork.com/freelancers/jtzuya</a></li>
 
