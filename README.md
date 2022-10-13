@@ -15,7 +15,7 @@
 
 <li>📫 How to reach me **jtzuya@gmail.com**</li>
 
-<li>📄 Know about my experiences <a href="https://www.upwork.com/freelancers/jtzuya)" target="_blank">https://www.upwork.com/freelancers/jtzuya</a></li>
+<li>📄 About my freelancing experiences <a href="https://www.upwork.com/freelancers/jtzuya)" target="_blank">https://www.upwork.com/freelancers/jtzuya</a></li>
 
 
 <br>
