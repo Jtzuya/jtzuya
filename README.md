@@ -11,7 +11,7 @@
 
 <li>🌱 I’m currently learning **Reactjs, Nextjs, and Hydrogen (soon)**</li>
 
-<li>💬 Ask me about **Work**</li>
+<li>💬 Ask me about **your project and I would love to contibute to it**</li>
 
 <li>📫 How to reach me **jtzuya@gmail.com**</li>
 
