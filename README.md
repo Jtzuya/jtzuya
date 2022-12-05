@@ -17,7 +17,7 @@
 
 <li>📫 How to reach me **jtzuya@gmail.com**</li>
 
-<li>📄 About my freelancing experiences <a href="https://www.upwork.com/freelancers/jtzuya)" target="_blank">https://www.upwork.com/freelancers/jtzuya</a></li>
+<li>📄 About my freelancing experiences <a href="https://www.upwork.com/freelancers/jtzuya)" target="_blank">https://www.upwork.com/freelancers/~01717c695f5f69880c</a></li>
 
 
 <br>
