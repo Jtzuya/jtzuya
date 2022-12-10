@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtzuya&label=Profile%20views&color=0e75b6&style=flat" alt="jtzuya" /> </p>
 
-<li>🔧 I’m currently working as Assistant Developer on this project <a href="https://ecobin-ecommerce.myshopify.com/" target="_blank">Ecobin</a> (password: sietwu)</li>
-
 <li>🛑 Personal ecommerce project (stopped) <a href="https://thishowwedoit.vercel.app/" target="_blank">[solid-octo-couscous (Reactjs | Nextjs) ecommerce project]</a></li>
 
 <li>🌱 I’m currently learning **Reactjs, Nextjs, and Hydrogen (soon)**</li>
