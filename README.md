@@ -15,15 +15,6 @@
 
 📫 How to reach me **jtzuya@gmail.com**
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtzuya&show_icons=true&locale=en" alt="jtzuya" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtzuya&show_icons=true&locale=en&layout=compact" alt="jtzuya" /></p>
-
-<p><p>
-<hr>
-<br>
 
 I have a saying that life is just like a function in programming. Most likely you are expecting to return what you wanted it to spit out, but before that could happen, you need to first create an effective algorithm before it works and it needs a hell’a ton of tests. Even if that function works at the end, but knowing that, that function only works for a specific criteria. So, you need to create another function for a different problem.
 
@@ -31,4 +22,8 @@ I have a saying that life is just like a function in programming. Most likely yo
 2. A person never stops learning, excluding to those people that passed away.
 3. If a person doesn’t want to learn something that can help improve themselves and achieve their goals, is just wasting their precious time living in this world and can never be happy.
 
-A beautiful success means tremendous struggles and discipline ~ Ehy Thatsuyha Jake Luena
+A beautiful success means tremendous struggles and discipline.
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtzuya&show_icons=true&locale=en" alt="jtzuya" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtzuya&show_icons=true&locale=en&layout=compact" alt="jtzuya" /></p>
