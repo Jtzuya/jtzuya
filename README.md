@@ -21,6 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtzuya&show_icons=true&locale=en&layout=compact" alt="jtzuya" /></p>
 
+<p><p>
+<hr>
 <br>
 
 I have a saying that life is just like a function in programming. Most likely you are expecting to return what you wanted it to spit out, but before that could happen, you need to first create an effective algorithm before it works and it needs a hell’a ton of tests. Even if that function works at the end, but knowing that, that function only works for a specific criteria. So, you need to create another function for a different problem.
