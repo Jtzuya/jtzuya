@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtzuya&label=Profile%20views&color=0e75b6&style=flat" alt="jtzuya" /> </p>
 
-🛑 Personal ecommerce project(stopped) [solid-octo-couscous (Reactjs | Nextjs) ecommerce project](https://thishowwedoit.vercel.app/)
-
 🌱 I’m currently learning **Reactjs, Nextjs, and Hydrogen (soon)**
 
 💬 Ask me about **your project and I would love to contibute to it**
