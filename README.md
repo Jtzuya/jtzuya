@@ -5,8 +5,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtzuya&theme=nightowl)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jtzuya&label=Profile%20views&color=0e75b6&style=flat" alt="jtzuya" /> </p>
-
 🌱 I’m currently learning **Reactjs, Nextjs, and Hydrogen (soon)**
 
 💬 Ask me about **your project and I would love to contibute to it**
