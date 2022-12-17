@@ -1,7 +1,4 @@
-<div style="display:flex; flex-direction:row;">
 <p>Jake 🤌</p>
-<p align="left"> <a href="https://twitter.com/@jakeseuya" target="blank"><img src="https://img.shields.io/twitter/follow/jakeseuya?logo=twitter&style=for-the-badge" alt="@jakeseuya" /></a> </p>
-</div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtzuya&show_icons=true&locale=en&layout=compact" alt="jtzuya" />
 
