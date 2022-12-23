@@ -1,2 +1,1 @@
-![image](https://www.codewars.com/users/Jtzuya/badges/large)
-🗑
+###### **LEVEL 🗑** ![image](https://www.codewars.com/users/Jtzuya/badges/large)
