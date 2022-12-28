@@ -7,8 +7,7 @@
     B -- No --> D[Google]
     D --> E[Blogs]
     D --> F[StackOverflow]
-    D --> G[Blackhole]
+    D --> G[Blackhole🌀]
     E --> A
     F --> A
-    G --> A
 ```
