@@ -4,6 +4,6 @@
   graph LR
     A[Write Code] --> B{Does it Work?}
     B -- Yes --> C[Great!]
-    C -- No --> D[Google]
+    B -- No --> D[Google]
     D --> A
 ```
