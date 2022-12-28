@@ -8,5 +8,7 @@
     D --> E[Blogs]
     D --> F[StackOverflow]
     D --> G[Blackhole]
-    D --> A
+    E --> A
+    F --> A
+    G --> A
 ```
