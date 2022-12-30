@@ -1,4 +1,4 @@
-![image](https://www.codewars.com/users/Jtzuya/badges/micro)  
+<a href="https://www.codewars.com/" target="blank">![image](https://www.codewars.com/users/Jtzuya/badges/micro)</a>  
 
 ```mermaid
   graph LR
