@@ -1,5 +1,3 @@
-<p>Jake 🤌</p>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtzuya&show_icons=true&locale=en&layout=compact" alt="jtzuya" />
 
 <h3 align="left">Languages and Tools:</h3>
